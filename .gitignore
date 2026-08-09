@@ -27,3 +27,8 @@ build/
 **/example/android/app/.cxx
 
 **/ios/Flutter/ephemeral
+
+# FVM Version Cache
+.fvm/
+.fvmrc
+.vscode/*
